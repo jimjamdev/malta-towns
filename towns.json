@@ -1,6 +1,6 @@
 {"towns":[
-    {"townName":"Valletta", "altTownName":"DCitta' Umalissima"}, 
-    {"townName":"Imdina", "altTownName":"Citta' Notabile"},
-    {"townName":"Birgu", "altTownName":"Citta' Vittoriosa"},
-    {"townName":"Isla", "altTownName":"Citta' Invicta"},
+    {"id":1, "townName":"Valletta", "altTownName":"DCitta' Umalissima", "townParent":""}, 
+    {"id":2, "townName":"Imdina", "altTownName":"Citta' Notabile", "townParent":""},
+    {"id":3, "townName":"Birgu", "altTownName":"Citta' Vittoriosa", "townParent":""},
+    {"id":4, "townName":"Isla", "altTownName":"Citta' Invicta", "townParent":""},
 ]}
