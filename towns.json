@@ -3,4 +3,9 @@
     {"id":2, "townName":"Imdina", "altTownName":"Citta' Notabile", "townParent":""},
     {"id":3, "townName":"Birgu", "altTownName":"Citta' Vittoriosa", "townParent":""},
     {"id":4, "townName":"Isla", "altTownName":"Citta' Invicta", "townParent":""},
-]}
+    {"id":5, "townName":"Bormla", "altTownName":"Citta' Cospicua", "townParent":""},
+    {"id":6, "townName":"Qormi", "altTownName":"Citta' Pinto", "townParent":""},
+    {"id":6, "townName":"Żebbuġ", "altTownName":"Citta' Rohan", "townParent":""},
+    {"id":7, "townName":"Żabbar", "altTownName":"Citta' Hompesch", "townParent":""},
+    {"id":8, "townName":"Siġġiewi", "altTownName":"Citta' Ferdinand", "townParent":""}
+]};
