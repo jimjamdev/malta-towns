@@ -7,5 +7,6 @@
     {"id":6, "townName":"Qormi", "altTownName":"Citta' Pinto", "townParent":""},
     {"id":6, "townName":"Żebbuġ", "altTownName":"Citta' Rohan", "townParent":""},
     {"id":7, "townName":"Żabbar", "altTownName":"Citta' Hompesch", "townParent":""},
-    {"id":8, "townName":"Siġġiewi", "altTownName":"Citta' Ferdinand", "townParent":""}
+    {"id":8, "townName":"Siġġiewi", "altTownName":"Citta' Ferdinand", "townParent":""},
+    {"id":9, "townName":"Żejtun", "altTownName":"Citta' Beland", "townParent":""}
 ]};
