@@ -1,7 +1,7 @@
 {"towns":[
     {"id":1, "nameFull":"Malta",  "name":"Malta", "nameHistoric":"", "townParent":[]},
-    {"id":2, "nameFull":"Gozo",  "name":"Gozo", "nameHistoric":"", "townParent":[]}, 
-    {"id":3, "nameFull":"Il-Belt Valletta",  "name":"Valletta", "nameHistoric":"DCitta' Umalissima", "townParent":[1]}, 
+    {"id":2, "nameFull":"Gozo",  "name":"Gozo", "nameHistoric":"", "townParent":[]},
+    {"id":3, "nameFull":"Il-Belt Valletta",  "name":"Valletta", "nameHistoric":"DCitta' Umalissima", "townParent":[1]},
     {"id":4, "nameFull":"L-Imdina", "name":"Imdina", "nameHistoric":"Citta' Notabile", "townParent":[1]},
     {"id":5, "nameFull":"Il-Birgu", "name":"Birgu", "nameHistoric":"Citta' Vittoriosa", "townParent":[1]},
     {"id":6, "nameFull":"L-Isla", "name":"Isla", "nameHistoric":"Citta' Invicta", "townParent":[1]},
