@@ -8,5 +8,7 @@
     {"id":6, "townNameFull":"Ħaż-Żebbuġ", "townName":"Zebbug", "townNameHistoric":"Citta' Rohan", "townParent":""},
     {"id":7, "townNameFull":"Ħaż-Żabbar", "townName":"Zabbar", "townNameHistoric":"Citta' Hompesch", "townParent":""},
     {"id":8, "townNameFull":"Is-Siġġiewi", "townName":"Siggiewi", "townNameHistoric":"Citta' Ferdinand", "townParent":""},
-    {"id":9, "townNameFull":"Iż-Żejtun", "townName":"Zejtun", "townNameHistoric":"Citta' Beland", "townParent":""}
+    {"id":9, "townNameFull":"Iż-Żejtun", "townName":"Zejtun", "townNameHistoric":"Citta' Beland", "townParent":""},
+    {"id":10, "townNameFull":"Ħ'Attard", "townName":"Attard", "townNameHistoric":"", "townParent":""},
+    {"id":11, "townNameFull":"Ħal Balzan", "townName":"Balzan", "townNameHistoric":"", "townParent":""}
 ]};
