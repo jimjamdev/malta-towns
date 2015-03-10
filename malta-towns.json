@@ -10,5 +10,12 @@
     {"id":8, "townNameFull":"Is-Siġġiewi", "townName":"Siggiewi", "townNameHistoric":"Citta' Ferdinand", "townParent":""},
     {"id":9, "townNameFull":"Iż-Żejtun", "townName":"Zejtun", "townNameHistoric":"Citta' Beland", "townParent":""},
     {"id":10, "townNameFull":"Ħ'Attard", "townName":"Attard", "townNameHistoric":"", "townParent":""},
-    {"id":11, "townNameFull":"Ħal Balzan", "townName":"Balzan", "townNameHistoric":"", "townParent":""}
+    {"id":11, "townNameFull":"Ħal Balzan", "townName":"Balzan", "townNameHistoric":"", "townParent":""},
+    {"id":12, "townNameFull":"Birkirkara", "townName":"Birkirkara", "townNameHistoric":"", "townParent":""},
+    {"id":13, "townNameFull":"Birżebbuġa", "townName":"Birzebbuga", "townNameHistoric":"", "townParent":""},
+    {"id":14, "townNameFull":"Ħad-Dingli", "townName":"Dingli", "townNameHistoric":"", "townParent":""},
+    {"id":15, "townNameFull":"Il-Fgura", "townName":"Fgura", "townNameHistoric":"", "townParent":""},
+    {"id":16, "townNameFull":"Il-Furjana", "townName":"Furjana", "townNameHistoric":"", "townParent":""},
+    {"id":17, "townNameFull":"Il-Gudja", "townName":"Gudja", "townNameHistoric":"", "townParent":""},
+    {"id":17, "townNameFull":"Il-Gżira", "townName":"Gzira", "townNameHistoric":"", "townParent":""}
 ]};
