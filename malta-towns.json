@@ -55,6 +55,6 @@
     {"id":54, "nameFull":"Ix-Xgħajra", "name":"Xghajra", "nameHistoric":"", "townParent":[1]},
     {"id":55, "nameFull":"Iż-Żurrieq", "name":"Zurrieq", "nameHistoric":"", "townParent":[1]},
     {"id":56, "nameFull":"L-Imtarfa", "name":"Imtarfa", "nameHistoric":"", "townParent":[1]},
-    // Towns with hamlet
+    /* Towns with hamlet */
     {"id":57, "nameFull":"Baħar iċ-Ċagħaq", "name":"Baħar iċ-Ċagħaq", "nameHistoric":"", "townParent":[33]}
 ]};
