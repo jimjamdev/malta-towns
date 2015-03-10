@@ -1,12 +1,12 @@
 {"towns":[
-    {"id":1, "townName":"Valletta", "altTownName":"DCitta' Umalissima", "townParent":""}, 
-    {"id":2, "townName":"Imdina", "altTownName":"Citta' Notabile", "townParent":""},
-    {"id":3, "townName":"Birgu", "altTownName":"Citta' Vittoriosa", "townParent":""},
-    {"id":4, "townName":"Isla", "altTownName":"Citta' Invicta", "townParent":""},
-    {"id":5, "townName":"Bormla", "altTownName":"Citta' Cospicua", "townParent":""},
-    {"id":6, "townName":"Qormi", "altTownName":"Citta' Pinto", "townParent":""},
-    {"id":6, "townName":"Żebbuġ", "altTownName":"Citta' Rohan", "townParent":""},
-    {"id":7, "townName":"Żabbar", "altTownName":"Citta' Hompesch", "townParent":""},
-    {"id":8, "townName":"Siġġiewi", "altTownName":"Citta' Ferdinand", "townParent":""},
-    {"id":9, "townName":"Żejtun", "altTownName":"Citta' Beland", "townParent":""}
+    {"id":1, "townNameFull":"Il-Belt Valletta",  "townName":"Valletta", "townNameHistoric":"DCitta' Umalissima", "townParent":""}, 
+    {"id":2, "townNameFull":"L-Imdina", "townName":"Imdina", "townNameHistoric":"Citta' Notabile", "townParent":""},
+    {"id":3, "townNameFull":"Il-Birgu", "townName":"Birgu", "townNameHistoric":"Citta' Vittoriosa", "townParent":""},
+    {"id":4, "townNameFull":"L-Isla", "townName":"Isla", "townNameHistoric":"Citta' Invicta", "townParent":""},
+    {"id":5, "townNameFull":"Bormla", "townName":"Bormla", "townNameHistoric":"Citta' Cospicua", "townParent":""},
+    {"id":6, "townNameFull":"Ħal Qormi", "townName":"Qormi", "townNameHistoric":"Citta' Pinto", "townParent":""},
+    {"id":6, "townNameFull":"Ħaż-Żebbuġ", "townName":"Zebbug", "townNameHistoric":"Citta' Rohan", "townParent":""},
+    {"id":7, "townNameFull":"Ħaż-Żabbar", "townName":"Zabbar", "townNameHistoric":"Citta' Hompesch", "townParent":""},
+    {"id":8, "townNameFull":"Is-Siġġiewi", "townName":"Siggiewi", "townNameHistoric":"Citta' Ferdinand", "townParent":""},
+    {"id":9, "townNameFull":"Iż-Żejtun", "townName":"Zejtun", "townNameHistoric":"Citta' Beland", "townParent":""}
 ]};
